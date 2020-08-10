@@ -13,10 +13,10 @@ steps:
       from_secret: u_docker
     password: 
       from_secret: p_docker
-    repo: luisredda/drone-harness-plugin
+    repo: peterhack/drone-harness-plugin
     auto_tag: true
 - name: harness-deploy
-  image: luisredda/drone-harness-plugin
+  image: peterhack/drone-harness-plugin
   settings:  
     application: "Harness Demo Application"
     type: "PIPELINE"
