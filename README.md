@@ -1,2 +1,2 @@
 # drone-harness-plugin
-Hello team... watch me go!
+Drone deploy my stuff!
