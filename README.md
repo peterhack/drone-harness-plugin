@@ -1,2 +1,2 @@
 # drone-harness-plugin
-Howdy neighbor, Fire your butler!
+Do you need some insight?
